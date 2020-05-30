@@ -1,2 +1,2 @@
-# technoloGIS.github.io
+# technologis.github.io
 SOLUCIONES EN SIG 
